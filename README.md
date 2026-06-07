@@ -284,15 +284,6 @@ found 0 vulnerabilities
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
----
-
-## 📄 Reports
-
-All lab documentation is available in the `/docs` folder:
-
-- [`Week4_Technical_Evaluation_Report.docx`](./docs/Week4_Technical_Evaluation_Report.docx)
-- [`Week5_Lab_Report.docx`](./docs/Week5_Lab_Report.docx)
-- [`Week6_Lab_Report.docx`](./docs/Week6_Lab_Report.docx)
 
 ---
 
