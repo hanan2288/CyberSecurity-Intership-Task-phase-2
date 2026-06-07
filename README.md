@@ -293,7 +293,6 @@ All lab documentation is available in the `/docs` folder:
 - [`Week4_Technical_Evaluation_Report.docx`](./docs/Week4_Technical_Evaluation_Report.docx)
 - [`Week5_Lab_Report.docx`](./docs/Week5_Lab_Report.docx)
 - [`Week6_Lab_Report.docx`](./docs/Week6_Lab_Report.docx)
-- [`Final_Combined_Report_Weeks4_5_6.docx`](./docs/Final_Combined_Report_Weeks4_5_6.docx)
 
 ---
 
