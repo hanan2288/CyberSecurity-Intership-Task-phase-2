@@ -30,8 +30,7 @@ cyber-security-lab/
 │   ├── Week4_Technical_Evaluation_Report.docx
 │   ├── Week5_Lab_Report.docx
 │   ├── Week6_Lab_Report.docx
-│   └── Final_Combined_Report_Weeks4_5_6.docx
-│
+│   
 └── README.md
 ```
 
